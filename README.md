@@ -2,7 +2,7 @@
 
 👨‍🎓​ - Formado em Analise e Desenvolvimento de Sistemas - FIAP <br>
 📚​ - Estudando Python <br>
-📚 - Certificado CPA|C-PRO-R|C-PRO-I (Anbima)
+📚 - Certificado CPA|C-PRO-R|C-PRO-I (Anbima) <br>
 ​🎯​ - Oportunidade no mercado de tecnologia, Suporte a Sistemas Bancários e TechFin.
 
 <div>
