@@ -2,7 +2,8 @@
 
 👨‍🎓​ - Formado em Analise e Desenvolvimento de Sistemas - FIAP <br>
 📚​ - Estudando Python <br>
-​🎯​ - Conseguir minha primeira oportunidade no mercado de tecnologia
+📚 - Certificado CPA|C-PRO-R|C-PRO-I (Anbima)
+​🎯​ - Oportunidade no mercado de tecnologia, Suporte a Sistemas Bancários e TechFin.
 
 <div>
   <a href="https://github.com/HugoBandeira7">
