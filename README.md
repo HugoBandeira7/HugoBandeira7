@@ -7,13 +7,9 @@
 
 Cruzo a lógica de programação e análise de dados (Python/SQL) com o conhecimento técnico do mercado financeiro e de investimentos.
 
-<div style="display: inline-block">
+<div>
   <br>
-  <img alt="Python" height="70" width="80" src="https://github.com" />
-  <img alt="Java" height="70" width="80" src="https://github.com" />
-  <img alt="HTML5" height="70" width="80" src="https://github.com" />
-  <img alt="CSS3" height="70" width="80" src="https://github.com" />
-  <img alt="JavaScript" height="70" width="80" src="https://github.com" />
+  <img alt="Minhas Tecnologias" height="65" src="https://postimg.cc" />
 </div>
 
 <br><br>
