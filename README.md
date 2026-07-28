@@ -7,7 +7,13 @@
 
 Cruzo a lógica de programação e análise de dados (Python/SQL) com o conhecimento técnico do mercado financeiro e de investimentos.
 
-![Minhas Tecnologias](tecnologias.jpg)
+<div>
+  <br>
+  <img alt="Python" height="70" width="80" src="python.png" />
+  <img alt="Java" height="70" width="80" src="java.png" />
+  <img alt="HTML5" height="70" width="80" src="html.png" />
+  <img alt="JavaScript" height="70" width="80" src="js.png" />
+</div>
 
 <br><br>
 
