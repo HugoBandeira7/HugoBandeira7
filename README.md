@@ -9,17 +9,18 @@ Cruzo a lógica de programação e análise de dados (Python/SQL) com o conhecim
 
 <div style="display: inline-block">
   <br>
-  <img allign="center" alt="Hugo-Python" height="70" width="80" src="https://githubusercontent.com" />
-  <img allign="center" alt="Hugo-Java" height="70" width="80" src="https://githubusercontent.com" />
-  <img allign="center" alt="Hugo-HTML5" height="70" width="80" src="https://githubusercontent.com" />
-  <img allign="center" alt="Hugo-CSS3" height="70" width="80" src="https://githubusercontent.com" />
-  <img allign="center" alt="Hugo-JavaScript" height="70" width="80" src="https://githubusercontent.com" />
+  <img alt="Python" height="70" width="80" src="https://github.com" />
+  <img alt="Java" height="70" width="80" src="https://github.com" />
+  <img alt="HTML5" height="70" width="80" src="https://github.com" />
+  <img alt="CSS3" height="70" width="80" src="https://github.com" />
+  <img alt="JavaScript" height="70" width="80" src="https://github.com" />
 </div>
 
 <br><br>
 
 <div>
-  <a href="https://instagram.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
-  <a href="https://wa.me!" target="_blank"><img src="https://shields.io" target="blank"></a>
+  <a href="https://instagram.com" target="_blank"><img src="https://shields.io"></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io"></a>
+  <a href="https://wa.me!" target="_blank"><img src="https://shields.io"></a>
 </div>
+
