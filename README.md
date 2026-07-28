@@ -1,1 +1,25 @@
-## Olá! Eu sou o Hugo Henrique 👨‍🎓​ - Formado em Analise e Desenvolvimento de Sistemas - FIAP <br> 📚​ - Estudando Python <br> 📚 - Certificado CPA | C-PRO-R | C-PRO-I (Anbima) <br> ​🎯​ - Oportunidade no mercado de tecnologia, Suporte a Sistemas Bancários e TechFin. <br> Cruzo a lógica de programação e análise de dados (Python/SQL) com o conhecimento técnico do mercado financeiro e de investimentos. <div> <a href="https://github.com"> <img height="180em" src="https://vercel.app"/> <img height="180em" src="https://vercel.app"/> </div> <div style = "display:inline_block"><br> <img allign="center" alt="Hugo-Python" height="70" width="80" src="https://githubusercontent.com" /> <img allign="center" alt="Hugo-Python" height="70" width="80" src="https://githubusercontent.com" /> <img allign="center" alt="Hugo-Python" height="70" width="80" src="https://githubusercontent.com" /> <img allign="center" alt="Hugo-Python" height="70" width="80" src="https://githubusercontent.com" /> <img allign="center" alt="Hugo-Python" height="70" width="80" src="https://githubusercontent.com" /> </div> ## <div> <a href="https://instagram.com" target="_blank"><img src="https://shields.io"target="_blank"></a> <a href="https://linkedin.com" target="_blank"><img src="https://shields.io"target="_blank"></a> <a href="https://wa.me!" target="_blank"><img src="https://shields.io"target="blank"></a> </div>
+## Olá! Eu sou o Hugo Henrique
+
+👨‍🎓 - Formado em Analise e Desenvolvimento de Sistemas - FIAP <br>
+📚 - Estudando Python <br>
+📚 - Certificado CPA | C-PRO-R | C-PRO-I (Anbima) <br>
+🎯 - Oportunidade no mercado de tecnologia, Suporte a Sistemas Bancários e TechFin. <br>
+
+Cruzo a lógica de programação e análise de dados (Python/SQL) com o conhecimento técnico do mercado financeiro e de investimentos.
+
+<div style="display: inline-block">
+  <br>
+  <img allign="center" alt="Hugo-Python" height="70" width="80" src="https://githubusercontent.com" />
+  <img allign="center" alt="Hugo-Java" height="70" width="80" src="https://githubusercontent.com" />
+  <img allign="center" alt="Hugo-HTML5" height="70" width="80" src="https://githubusercontent.com" />
+  <img allign="center" alt="Hugo-CSS3" height="70" width="80" src="https://githubusercontent.com" />
+  <img allign="center" alt="Hugo-JavaScript" height="70" width="80" src="https://githubusercontent.com" />
+</div>
+
+<br><br>
+
+<div>
+  <a href="https://instagram.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
+  <a href="https://wa.me!" target="_blank"><img src="https://shields.io" target="blank"></a>
+</div>
