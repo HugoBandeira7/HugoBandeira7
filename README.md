@@ -10,9 +10,9 @@ Cruzo a lógica de programação e análise de dados (Python/SQL) com o conhecim
 <div>
   <br>
   <img alt="Python" height="70" width="80" src="python.png" />
-  <img alt="Java" height="70" width="80" src="java.png" />
-  <img alt="HTML5" height="70" width="80" src="html.png" />
   <img alt="JavaScript" height="70" width="80" src="js.png" />
+  <img alt="HTML5" height="70" width="80" src="html.png" />
+  <img alt="Java" height="70" width="80" src="java.png" />
 </div>
 
 <br><br>
