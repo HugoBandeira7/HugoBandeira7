@@ -9,7 +9,7 @@ Cruzo a lógica de programação e análise de dados (Python/SQL) com o conhecim
 
 <div>
   <br>
-  <img alt="Minhas Tecnologias" height="70" src="tecnologias.jpg" />
+  <img alt="Minhas Tecnologias" height="70" src="tecnologias.jpg.jpg" />
 </div>
 
 <br><br>
