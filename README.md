@@ -18,7 +18,7 @@ Cruzo a lógica de programação e análise de dados (Python/SQL) com o conhecim
 <br><br>
 
 <div>
-  <a href="https://instagram.com" target="_blank"><img src="https://shields.io"></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io"></a>
-  <a href="https://wa.me!" target="_blank"><img src="https://shields.io"></a>
+  <a href="https://wa.me!" target="_blank"><img alt="WhatsApp" height="70" width="80" src="whatsapp.png"></a>
+  <a href="https://linkedin.com" target="_blank"><img alt="LinkedIn" height="70" width="80" src="linkedin.png"></a>
+  <a href="https://instagram.com" target="_blank"><img alt="Instagram" height="70" width="80" src="instagram.png"></a>
 </div>
