@@ -7,10 +7,7 @@
 
 Cruzo a lógica de programação e análise de dados (Python/SQL) com o conhecimento técnico do mercado financeiro e de investimentos.
 
-<div>
-  <br>
-  <img height="70" src="https://githubusercontent.com" />
-</div>
+![Minhas Tecnologias](tecnologias.jpg)
 
 <br><br>
 
