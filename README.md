@@ -1,22 +1,18 @@
 ## Olá! Eu sou o Hugo Henrique
 
-👨‍🎓 - Formado em Analise e Desenvolvimento de Sistemas - FIAP <br>
-📚 - Estudando Python <br>
-📚 - Certificado CPA | C-PRO-R | C-PRO-I (Anbima) <br>
-🎯 - Oportunidade no mercado de tecnologia, Suporte a Sistemas Bancários e TechFin. <br>
+👨‍🎓 - Formado em Analise e Desenvolvimento de Sistemas - FIAP  
+📚 - Estudando Python  
+📚 - Certificado CPA | C-PRO-R | C-PRO-I (Anbima)  
+🎯 - Oportunidade no mercado de tecnologia, Suporte a Sistemas Bancários e TechFin.  
 
 Cruzo a lógica de programação e análise de dados (Python/SQL) com o conhecimento técnico do mercado financeiro e de investimentos.
 
-<div>
-  <br>
-  <img alt="Minhas Tecnologias" height="65" src="https://postimg.cc" />
-</div>
+### 🛠️ Tecnologias e Ferramentas
 
-<br><br>
+![Python](https://shields.io) ![Java](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io)
 
-<div>
-  <a href="https://instagram.com" target="_blank"><img src="https://shields.io"></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io"></a>
-  <a href="https://wa.me!" target="_blank"><img src="https://shields.io"></a>
-</div>
+### 📬 Contato
 
+[![Instagram](https://shields.io)](https://instagram.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![WhatsApp](https://shields.io)](https://wa.me!)
